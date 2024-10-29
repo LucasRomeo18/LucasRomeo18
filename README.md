@@ -1,7 +1,7 @@
 <h1 align="center">Hello Guys! I'm Lucas Romeo! 👁️</h1>
 
 <h3>My GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasRomeo18&show_icons=true&theme=dark&locale=en&layout=compact" alt="LucasRomeo18" /></p>
 <br><br><br><br><br><br><br>
 
 ## Contact us
