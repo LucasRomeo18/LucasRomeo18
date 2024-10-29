@@ -1,5 +1,19 @@
 <h1 align="center">Hello Guys! I'm Lucas Romeo! 👁️</h1>
 
+## ***About me***
+
+I have a degree in Graphic Design and work as a freelance professional. Recently, I also started working in IT Support. I’m now interested in web design and front-end development. I love to learn and build something new, productive, innovative and creative.
+* **I am interested in Web designing, Android development, and digital marketing**
+- 🌱 I’m currently learning ...
+  - JavaScript
+- 🌱 Next learning ...
+  - React js
+- 👯 I’m looking forward to collaborate on open source projects.
+- ✔ Ask me about anything, I am happy to help!😉<br>
+- Outside tech, 🎮 playing videogames, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="lucas.romeo18@gmail.com">lucas.romeo18@gmail.com</a>
+
+
 <h3>My GitHub Stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasRomeo18&show_icons=true&theme=dark&locale=en&layout=compact" alt="LucasRomeo18" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasRomeo18&show_icons=true&theme=dark&locale=en" alt="LucasRomeo18" /></p>
