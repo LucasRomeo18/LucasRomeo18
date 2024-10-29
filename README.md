@@ -5,12 +5,6 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasRomeo18&show_icons=true&theme=dark&locale=en" alt="LucasRomeo18" /></p>
 <br><br><br><br><br><br><br>
 
-
-<br><br><br><br><br><br><br><br><br><br>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=LucasRomeo18&theme=dark" alt="LucasRomeo18" /></p>
-<br><br><br><br><br><br><br><br><br><br>
-
 ## Contact us
 
 <a href="https://github.com/LucasRomeo18" target="_blank">
