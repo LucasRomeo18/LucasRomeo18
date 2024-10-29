@@ -15,10 +15,11 @@ I have a degree in Graphic Design and work as a freelance professional. Recently
 
 
 <h3>My GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasRomeo18&show_icons=true&theme=dark&locale=en&layout=compact" alt="LucasRomeo18" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=LucasRomeo18&show_icons=true&theme=dark&locale=en" alt="LucasRomeo18" /></p>
-<br><br><br><br><br><br><br>
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRomeo18&layout=compact&show_icons=true&theme=dark)
+[![Lucas Romeo GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRomeo18&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br><br><br><br><br><br><br>
 ## <b> Skills</b>
 <br>
 
